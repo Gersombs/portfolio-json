@@ -1,0 +1,206 @@
+{
+    "basics": {
+      "name": "Gersom Bahena",
+      "label": "Desarrollador Frontend Jr. Con experiencia en el MKT digital.",
+      "image": "/Me.webp",
+      "email": "gersombs@gmail.com",
+      "phone": "+52 7333356691",
+      "url": "https://github.com/Gersombs",
+      "summary": "Egresado de la Lic. En Relaciones Comerciales, con amor por el marketing digital y la publicidad. Actualmente inmerso en el mundo del desarrollo web. Vivo en CDMX, México y he trabajado dentro del área de frontend como desarrollador Jr.",
+      "location": {
+        "address": "",
+        "postalCode": "11320",
+        "city": "Ciudad de México",
+        "countryCode": "MX",
+        "region": "México"
+      },
+      "profiles": [{
+        "network": "X",
+        "username": "Gersom",
+        "url": "https://twitter.com/GERSOMBAHENA"
+      },
+        {
+         "network": "GitHub",
+         "username": "Gersombs",
+         "url": "https://github.com/Gersombs"
+      },
+      {
+         "network": "LinkedIn",
+         "username": "Gersom Bahena",
+         "url": "https://www.linkedin.com/in/gersombs"
+      }]
+    },
+    "work": [
+    {
+      "name": "Freelancer",
+      "position": "Desarrollador Frontend",
+      "url": "",
+      "startDate": "2022-04-01",
+      "endDate": null,
+      "summary": "Diseño y desarrollo de sitios web, optimización de la experiencia de usuario y colaboración con diseñadores.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Aceros y Materiales Luna",
+      "position": "Asociado de Marketing",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2023-09-01",
+      "summary": "Desarrollo e implementación de branding para una empresa de aceros, con modificaciones en la página web para reflejar su identidad corporativa, servicios y valores diferenciadores.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "MARKETINGENIAL",
+      "position": "Desarrollador Frontend",
+      "url": "https://marketingenial.com/",
+      "startDate": "2021-09-01",
+      "endDate": "2022-04-01",
+      "summary": "Uso de HTML y CSS para el mantenimiento de sitios web y optimización de la experiencia de usuario.",
+      "highlights": [
+        ""
+      ]
+    }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        ""
+      ]
+    }],
+    "education": [{
+      "institution": "Instituto Politécnico Nacional",
+      "url": "https://www.ipn.mx/",
+      "area": "Relaciones Comerciales",
+      "studyType": "Bachelor",
+      "startDate": "2016-08-01",
+      "endDate": "2021-08-01",
+      "score": "8.5",
+      "courses": [
+        "Mercadotecnia y Publicidad"
+      ]
+    },
+    { 
+    "institution": "Seminario",
+      "url": "https://www.ipn.mx/",
+      "area": "Aplicaciones de la psicología al trabajo en mercadotecnia",
+      "studyType": "Seminario",
+      "startDate": "2021-010-12",
+      "endDate": "2022-03-12",
+      "score": "10",
+      "courses": [
+        "Aplicaciones de la psicología al trabajo en mercadotecnnia"
+      ]
+    }
+    ],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    }
+    ],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Videojuegos",
+      "keywords": [
+        "Games",
+        "Videojuegos"
+      ]
+    }],
+    "references": [{
+      "name": "Octavio Said",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Zait",
+      "startDate": "2023-09-11",
+      "endDate": "2021-01-01",
+      "description": "Portfolio realizado con HTML. CSS y Js",
+      "highlights": [
+        "Full deploy",
+        "Primer proyecto"
+      ],
+      "url": "https://gersombs.github.io/Zait/"
+    },
+    {
+      "name": "Pokédex",
+      "isActive": true,
+      "description": "Reto de Js para aprender concepto básicos de API",
+      "highlights": [
+          "Uso de APIs",
+          "En desarrollo"
+        ],
+        "url": "https://adventjs.dev"
+    },
+    {
+        "name": "AgenciaGBS",
+        "isActive": true,
+        "description": "Template de una página web de servicios digitales",
+        "highlights": [
+          "Aplicación de SASS/LESS",
+          "En desarrollo"
+        ],
+        "url": "https://gersombs.github.io/PokeDex/"
+    }]
+  }
