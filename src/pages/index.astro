@@ -10,7 +10,7 @@ import Skills from '@/components/sections/Skills.astro';
 import KeyboardManager from '@/components/KeyboardManager.astro';
 import { basics } from '@cv'
 
-const { name, label} = basics
+const { name } = basics
 ---
 
 <Layout title={`Portfolio de ${name}`}>
@@ -27,8 +27,14 @@ const { name, label} = basics
 
 <style>
 	main {
-		padding: 4rem;
-		margin: auto;
-		widows: 100%;
-	}
+    padding: 4rem;
+    margin: auto;
+    width: 100%;
+  }
+
+  @media (width <= 700px) {
+    main {
+      padding: 2rem;
+    }
+  }
 </style>
