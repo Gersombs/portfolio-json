@@ -93,11 +93,23 @@
       "url": "https://www.ipn.mx/",
       "area": "Aplicaciones de la psicología al trabajo en mercadotecnia",
       "studyType": "Seminario",
-      "startDate": "2021-010-12",
+      "startDate": "2021-10-12",
       "endDate": "2022-03-12",
       "score": "10",
       "courses": [
-        "Aplicaciones de la psicología al trabajo en mercadotecnnia"
+        "Aplicaciones de la Psicología al Trabajo en Mercadotecnnia"
+      ]
+    },
+    { 
+    "institution": "Seminario",
+      "url": "https://www.ipn.mx/",
+      "area": "Compra De Bienes y Contratación de Servicios Del Sector Público Federal",
+      "studyType": "Seminario",
+      "startDate": "2023-03-27",
+      "endDate": "2024-07-23",
+      "score": "10",
+      "courses": [
+        "Compra De Bienes y Contratación de Servicios Del Sector Público Federal"
       ]
     }
     ],
@@ -155,6 +167,13 @@
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
+    },
+    {
+      "name": "React",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
     }
     ],
     "languages": [{
@@ -174,12 +193,13 @@
     }],
     "projects": [{
       "name": "Zait",
+      "isActive": true,
       "startDate": "2023-09-11",
       "endDate": "2021-01-01",
       "description": "Portfolio realizado con HTML. CSS y Js",
       "highlights": [
-        "Full deploy",
-        "Primer proyecto"
+        "Full Deploy",
+        "Primer Proyecto"
       ],
       "url": "https://gersombs.github.io/Zait/"
     },
@@ -189,7 +209,7 @@
       "description": "Reto de Js para aprender concepto básicos de API",
       "highlights": [
           "Uso de APIs",
-          "En desarrollo"
+          "En Desarrollo"
         ],
         "url": "https://adventjs.dev"
     },
@@ -199,7 +219,7 @@
         "description": "Template de una página web de servicios digitales",
         "highlights": [
           "Aplicación de SASS/LESS",
-          "En desarrollo"
+          "En Desarrollo"
         ],
         "url": "https://gersombs.github.io/PokeDex/"
     }]
