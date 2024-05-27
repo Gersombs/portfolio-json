@@ -43,7 +43,7 @@ const SOCIALICONS: SocialIcon = {
 `
 }
 
-const profilesInfo = profiles.map(({ network, url }) => {
+const profilesInfo = profiles.map(({ network, url }: { network: string; url: string }) => {
   const icon = SOCIALICONS[network]
   const firstLetter = network[0].toUpperCase()
 

@@ -1,7 +1,7 @@
 {
   "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
-    "baseUrl": "C:/Users/GERSO/Escritorio/Portfolio/Json minimalista/portfolio-json",
+    "baseUrl": ".",
     "paths": {
       "@cv": [
         "./cv.json"
@@ -9,8 +9,6 @@
       "@/*": [
         "src/*"
       ]
-    },
-    "jsx": "preserve",
-    "jsxImportSource": "react"
+    }
   }
 }
